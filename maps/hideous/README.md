@@ -1,0 +1,1 @@
+symetrical map, should work for ffa, or 0,1,2 vs 3,4,5

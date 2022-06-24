@@ -1,0 +1,13 @@
+{
+    "name": "RockPlain",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "Charca"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-04-02 12:45:25",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.28 Windows"
+}

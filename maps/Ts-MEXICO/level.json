@@ -1,0 +1,13 @@
+{
+    "name": "Ts-MEXICO",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "Virus- A"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-05-31 16:21:31",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.28 Windows"
+}

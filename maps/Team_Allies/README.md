@@ -1,0 +1,1 @@
+Map of 6 players with small amounts of oil, not scavengers. On this map you can play alone or select the team. In places where there are craters truck lines (computers) should build a gate.

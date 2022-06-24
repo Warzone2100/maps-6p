@@ -1,0 +1,1 @@
+A large double-symmetric 3x3 team duel.

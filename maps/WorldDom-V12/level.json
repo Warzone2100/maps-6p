@@ -1,0 +1,18 @@
+{
+    "name": "WorldDom-V12",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "rockies",
+    "author": {
+        "name": "Stealthx"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2016-02-02 11:39:35",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Windows",
+    "additional-authors": [
+        {
+            "name": "Penguin Army"
+        }
+    ]
+}
