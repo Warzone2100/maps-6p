@@ -1,0 +1,1 @@
+A 6-player FFA map that includes rough mountains, open sea and wide valleys.

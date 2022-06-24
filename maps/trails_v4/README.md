@@ -1,0 +1,1 @@
+8 derricks a 9th in the center - 6 player map and its relatively flat.

@@ -1,0 +1,1 @@
+A map with a lot of Scavenger units and mortar pits.Designed for 6 players.
