@@ -1,0 +1,13 @@
+{
+    "name": "NarrowPass",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "urban",
+    "author": {
+        "name": "redemptor"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-07-08 18:03:36",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Windows"
+}

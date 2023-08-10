@@ -1,0 +1,13 @@
+{
+    "name": "RB_TNT-NTWS",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "rockies",
+    "author": {
+        "name": "rb"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2017-01-17 17:30:27",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

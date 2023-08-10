@@ -1,0 +1,13 @@
+{
+    "name": "RainyNTWNoArty",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "urban",
+    "author": {
+        "name": "Subsentient"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2015-02-25 23:46:55",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

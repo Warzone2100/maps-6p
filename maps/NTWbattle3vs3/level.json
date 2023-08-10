@@ -1,0 +1,13 @@
+{
+    "name": "NTWbattle3vs3",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "UnP_Gama"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-03-27 23:20:24",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

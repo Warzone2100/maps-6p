@@ -1,0 +1,13 @@
+{
+    "name": "NTWGlory-v2-6p",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "Subsentient"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2015-01-09 21:51:50",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "NTW3vs3minimum",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "boss"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2019-04-11 21:01:16",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

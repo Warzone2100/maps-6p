@@ -1,0 +1,13 @@
+{
+    "name": "Killer_For_UnP_s",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "UnP_Killer"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2013-04-23 21:20:31",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
