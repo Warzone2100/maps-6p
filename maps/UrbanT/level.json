@@ -1,0 +1,13 @@
+{
+    "name": "UrbanT",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "urban",
+    "author": {
+        "name": "sensor"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2011-03-17 18:57:42",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.14"
+}

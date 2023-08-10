@@ -1,0 +1,13 @@
+{
+    "name": "War-19",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "urban",
+    "author": {
+        "name": "crysis"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2018-02-24 21:50:28",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

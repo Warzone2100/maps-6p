@@ -1,0 +1,13 @@
+{
+    "name": "WaterEarth",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "core"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2014-01-13 10:32:37",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "aaaaa",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "1"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-10-22 13:19:12",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

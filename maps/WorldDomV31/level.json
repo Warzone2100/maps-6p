@@ -1,0 +1,13 @@
+{
+    "name": "WorldDomV31",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "rockies",
+    "author": {
+        "name": "Micah Fonken"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-06-12 17:44:16",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}

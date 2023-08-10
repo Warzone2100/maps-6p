@@ -1,0 +1,13 @@
+{
+    "name": "Rb_War3v3",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "Punkech Patel"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-03-01 20:21:50",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

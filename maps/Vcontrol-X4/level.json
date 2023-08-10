@@ -1,0 +1,13 @@
+{
+    "name": "Vcontrol-X4",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "core"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-04-07 18:14:13",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

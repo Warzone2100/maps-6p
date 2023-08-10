@@ -1,0 +1,13 @@
+{
+    "name": "mesh_v1",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "urban",
+    "author": {
+        "name": "tmp[BDC]"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-06-10 22:47:22",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}
