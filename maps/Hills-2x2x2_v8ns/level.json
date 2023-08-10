@@ -1,0 +1,13 @@
+{
+    "name": "Hills-2x2x2_v8ns",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "Hrom"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2018-12-30 18:36:23",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

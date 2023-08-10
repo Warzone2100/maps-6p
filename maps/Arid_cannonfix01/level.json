@@ -1,0 +1,13 @@
+{
+    "name": "Arid_cannonfix01",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-02-14 01:04:40",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Mono 2.10"
+}

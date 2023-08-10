@@ -1,0 +1,13 @@
+{
+    "name": "DEATH_CLAN_NTW2",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "urban",
+    "author": {
+        "name": "Dark Fênix - Suzuki Paulo"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2013-12-05 19:19:59",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

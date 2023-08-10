@@ -1,0 +1,13 @@
+{
+    "name": "Command_control",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "rockies",
+    "author": {
+        "name": "beholder"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2015-08-07 22:27:48",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
