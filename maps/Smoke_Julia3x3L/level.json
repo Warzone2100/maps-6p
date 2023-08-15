@@ -1,0 +1,11 @@
+{
+    "name": "Smoke_Julia3x3L",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "Ayro"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "generator": "wzmaplib 1.2.2"
+}
