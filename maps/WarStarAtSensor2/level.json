@@ -1,0 +1,13 @@
+{
+    "name": "WarStarAtSensor2",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "rockies",
+    "author": {
+        "name": "Light"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2017-04-26 21:55:43",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
