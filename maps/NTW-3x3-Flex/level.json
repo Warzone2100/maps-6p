@@ -1,0 +1,11 @@
+{
+    "name": "NTW-3x3-Flex",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "Flex coral"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "generator": "wzmaplib 1.2.6"
+}

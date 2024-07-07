@@ -1,0 +1,1 @@
+Actually proper 3v3 NTW map, factories rotated, all modules present
