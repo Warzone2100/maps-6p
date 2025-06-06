@@ -1,0 +1,13 @@
+{
+    "name": "Bastrene",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "urban",
+    "author": {
+        "name": "arc"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2025-04-20 23:40:11",
+    "generator": "wzmaplib 1.3.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
