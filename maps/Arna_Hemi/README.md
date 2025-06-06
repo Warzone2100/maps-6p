@@ -1,0 +1,1 @@
+Low oil flat map with exposed derricks. Tile types are modified so that units move quickly.
