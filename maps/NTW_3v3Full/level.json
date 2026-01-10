@@ -1,0 +1,8 @@
+{
+    "name": "NTW_3v3Full",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "spdx-license-id": "GPL-2.0-or-later",
+    "generator": "wzmaplib 1.4.4"
+}
